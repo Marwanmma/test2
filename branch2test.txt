@@ -2,5 +2,6 @@ Hello World!
 
 
 Ready for merging this branch2 and the main one?
-When writing on VS the code doesn't update. 
-Also, Github desktop doesn't have the feature to write on the code. Does it? 
+
+When writing on VS the code doesn't reflect/update on both Github & Github Desktop. 
+Also, Github desktop doesn't have the feature to write on the code. Doesn't it? 
